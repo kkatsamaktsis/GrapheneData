@@ -5,8 +5,9 @@ Each row in the file relations_data.tsv, includes an example sentence and as a l
 
 | id | label | alpha | sentence |
 | ------------- | ------------- | ------------- | -------------------------- |
-|2 | BACKGROUND | a | It is very fast , as package solving complexity is very low compared to other areas where SAT |solvers are used . |
-|55 | CAUSE | a | It has reduced predation since the fly can not locate the males . |
+| 2 | BACKGROUND | a | It is very fast , as package solving complexity is very low compared to other areas where SAT |solvers are used . |
+| 55 | CAUSE | a | It has reduced predation since the fly can not locate the males . |
+| 476 | PURPOSE | a | Short stories were taken from Islamic history to illustrate the eternal spiritual truths in the teachings of Islam .
 
 
 Each row in the file rules_data.tsv, includes an example sentence and as a label, the first simplification rule that matches for that sentence. These data were generated using the Discourse Simplification (https://github.com/Lambda-3/DiscourseSimplification) component of Graphene. Some examples from the data file:
