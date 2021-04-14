@@ -3,7 +3,7 @@ The data in the zipped files relations_data.tsv.zip, rules_data.tsv.zip in this 
 
 Each row in the file relations_data.tsv, includes an example sentence and as a label, a rhetorical relation that occurs in that sentence. These data were generated using a [DiscourseAnnotation](https://github.com/kkatsamaktsis/DiscourseAnnotation) component that is built over the [Discourse Simplification](https://github.com/Lambda-3/DiscourseSimplification) component of [Graphene](https://github.com/Lambda-3/Graphene). 
 
-Each row in the file relations_data.tsv, includes an example sentence and as a label, the rhetorical relations that is identified after the application of the first simplification rule that matches the sentence (the rhetorical relations are consitent with [Discourse Simplification](https://github.com/Lambda-3/DiscourseSimplification)). Some examples from the data are given below:
+Each row in the file relations_data.tsv, includes an example sentence and as a label, the rhetorical relations that is identified after the application of the first simplification rule that matches the sentence (the rhetorical relations are consistent with [Discourse Simplification](https://github.com/Lambda-3/DiscourseSimplification)). Some examples from the data are given below:
 
 | id | label | alpha | sentence |
 | ------------- | ------------- | ------------- | -------------------------- |
@@ -12,7 +12,7 @@ Each row in the file relations_data.tsv, includes an example sentence and as a l
 | 476 | PURPOSE | a | Short stories were taken from Islamic history to illustrate the eternal spiritual truths in the teachings of Islam .
 | 576 | NONE | a | The town has a strong literary tradition.
 
-Each row in the file rules_data.tsv, includes an example sentence and as a label, the first simplification rule that matches for that sentence (the simplification rules are consitent with [Discourse Simplification](https://github.com/Lambda-3/DiscourseSimplification)). Some examples from the data are given below:
+Each row in the file rules_data.tsv, includes an example sentence and as a label, the first simplification rule that matches for that sentence (the simplification rules are consistent with [Discourse Simplification](https://github.com/Lambda-3/DiscourseSimplification)). Some examples from the data are given below:
 
 | id | label | alpha | sentence |
 | ------------- | ------------- | ------------- | -------------------------- |
